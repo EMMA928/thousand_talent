@@ -1,0 +1,242 @@
+﻿identifier,Name,orcid,aff_chn,aff_eng,recruit_univ,aff_id,role,experience,start_year,end_year,undergrad_year,title,website,department,subaff_eng,subaff_id,yob,move_to_china_year,title_code,phd_field,source,Batch,recruit_year,returned_to_china,go_recruit_univ
+16,刘阳,0000-0001-5477-2186,,Tsinghua University,,,Bachelor,,1993,1997,,,http://www.slrss.cn/xsjz/202007/t20200720_569749.html,,,,,,0.0,,,3,2012,0.0,0.0
+16,刘阳,0000-0001-5477-2186,,University of California Davis,,,Master,,1997,1999,,,http://www.slrss.cn/xsjz/202007/t20200720_569749.html,,,,,,1.0,,,3,2012,0.0,0.0
+16,刘阳,0000-0001-5477-2186,哈佛大学,Harvard University,北京师范大学,60009982.0,PhD1,1.0,1999,2004,,PhD,http://www.slrss.cn/xsjz/202007/t20200720_569749.html,Graduate School of Arts and Sciences,,60009982,1973.0,,2.0,,,3,2012,0.0,0.0
+16,刘阳,0000-0001-5477-2186,哈佛大学,Harvard University,北京师范大学,60009982.0,Postdoc,,2004,2008,,postdoc,http://www.slrss.cn/xsjz/202007/t20200720_569749.html,,,,,,3.0,,,3,2012,0.0,0.0
+16,刘阳,0000-0001-5477-2186,,Emory University,北京师范大学,,,,2009,,,Professor,http://www.slrss.cn/xsjz/202007/t20200720_569749.html,Rollins School of Public Health,,,1973.0,,7.0,,,3,2012,0.0,0.0
+135,王龑,0000-0001-8990-5700,南京大学,Nanjing University,中国科学院大学,,Bachelor,0.0,,,,Bachelor,https://kknews.cc/zh-cn/education/ey4lq4.html,天文系,,,,,0.0,,,14,2017,0.0,0.0
+135,王龑,0000-0001-8990-5708,,Nanjing University,中国科学院大学,,,1.0,,,,研究生,https://kknews.cc/zh-cn/education/ey4lq4.html,,,,,,,,ra,14,2017,0.0,0.0
+135,王龑,0000-0001-8990-5702,,Max Planck Institute for Gravitational Physics (Albert Einstein Institute),中国科学院大学,60011901.0,PhD1,2.0,,2014,,,https://kknews.cc/zh-cn/education/ey4lq4.html,引力物理学,,,1984.0,,2.0,,,14,2017,0.0,0.0
+135,王龑,0000-0001-8990-5704,,Leibniz Universität Hannover,中国科学院大学,60004935.0,Postdoc2,3.0,,,,,https://kknews.cc/zh-cn/education/ey4lq4.html,,,,1984.0,,3.0,,,14,2017,0.0,0.0
+135,王龑,0000-0001-8990-5707,,Max Planck Institute for Gravitational Physics (Albert Einstein Institute),中国科学院大学,,,4.0,,,,研究院,https://kknews.cc/zh-cn/education/ey4lq4.html,,,,,,,,ra,14,2017,0.0,0.0
+135,王龑,0000-0001-8990-5706,西澳大学,The University of Western Australia,中国科学院大学,,,5.0,2016,Present,,研究助理教授,https://kknews.cc/zh-cn/education/ey4lq4.html,,,,,,,,ra,14,2017,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,Tsinghua University,复旦大学,,Bachelor,,1995,2000,,B.E.,https://www.dri.edu/directory/xiaoliang-wang/,Thermal Engineering,,,,,0.0,,,1,2011,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,Tsinghua University,复旦大学,,Bachelor,,1998,2000,,B.E.,https://www.dri.edu/directory/xiaoliang-wang/,Environmental Engineering,,,,,0.0,,,1,2011,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,University of Minnesota,复旦大学,,Master,,2000,2002,,M.S.,https://www.dri.edu/directory/xiaoliang-wang/,Mechanical Engineering,,,,,1.0,,,1,2011,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,University of Minnesota,复旦大学,,PhD,,2002,2006,,Ph.D.,https://www.dri.edu/directory/xiaoliang-wang/,Mechanical Engineering,,,,,2.0,,,1,2011,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,TSI Inc,复旦大学,,,,2005,2009,,Staff Development Engineer,https://www.dri.edu/directory/xiaoliang-wang/,Engineering,,,,,,,,1,2011,0.0,0.0
+169,王小亮,0000-0002-2345-7308,,Desert Research Institute,复旦大学,,,,2009,,,Research Professor,https://www.dri.edu/directory/xiaoliang-wang/,Division of Atmospheric Sciences,,,,,,,,1,2011,0.0,0.0
+172,赵亮,0000-0002-1502-6604,,China Pharmaceutical University,复旦大学,,Bachelor,,1991,1995,,,https://www.linkedin.com/in/liang-zhao-877179b/,,,,,,0.0,,,5,2013,0.0,0.0
+172,赵亮,0000-0002-1502-6604,,Shanghai Medical University,复旦大学,,Master,,1995,1998,,,https://www.linkedin.com/in/liang-zhao-877179b/,,,,,,1.0,,,5,2013,0.0,0.0
+172,赵亮,0000-0002-1502-6604,俄亥俄州立大学,The Ohio State University,复旦大学,60003500.0,PhD1,1.0,1998,2003-12,,,https://www.linkedin.com/in/liang-zhao-877179b/,,,60003500,1973.0,,2.0,,,5,2013,0.0,0.0
+172,赵亮,0000-0002-1502-6604,食品药品管理局临床药理办公室,US Food & Drug Administration Office of Clinical Pharmacology,复旦大学,60010237.0,Postdoc1,3.0,2004,present,,,https://www.linkedin.com/in/liang-zhao-877179b/,,,,1973.0,,3.0,,,5,2013,0.0,0.0
+224,刘伟,0000-0001-8920-1172,,Wuhan University,淮海工学院,,Bachelor,,1998,2002,,,https://www.linkedin.com/in/wliu100/,,,,,,0.0,,,5,2013,0.0,0.0
+224,刘伟,0000-0001-8920-1172,,Ohio State University,淮海工学院,,PhD,,2002,2007,,,https://www.linkedin.com/in/wliu100/,,,,,,2.0,,,5,2013,0.0,0.0
+224,刘伟,0000-0001-8920-1172,斯克里普斯研究所,The Scripps Research Institute,淮海工学院,60007103.0,Postdoc1,3.0,2008,2014,,,https://www.linkedin.com/in/wliu100/,,,,1979.0,2013,3.0,,,5,2013,0.0,0.0
+224,刘伟,0000-0001-8920-1172,,Arizona State University,淮海工学院,,,,2014,2021,,Assistant Professor/Associate Professor,https://www.linkedin.com/in/wliu100/,,,,,,5.0,,,5,2013,0.0,0.0
+224,刘伟,0000-0001-8920-1172,,Medical College of Wisconsin,淮海工学院,,,,2022,,,Associate Professor,https://www.linkedin.com/in/wliu100/,,,,,,6.0,,,5,2013,0.0,0.0
+229,崔莹,0000-0003-1057-4369,,China University of Geosciences (Beijing),暨南大学,,Bachelor,,2001,2005,,,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,,,,,,0.0,,,13,2017,0.0,0.0
+229,崔莹,0000-0003-1057-4369,,Peking University,暨南大学,,Master,,2005,2008,,,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,,,,,,1.0,,,13,2017,0.0,0.0
+229,崔莹,0000-0003-1057-4369,宾夕法尼亚州立大学,Pennsylvania State University,暨南大学,60001439.0,PhD1,1.0,2008,2014,,,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,,,,1983.0,,2.0,,,13,2017,0.0,0.0
+229,崔莹,0000-0003-1057-4369,路易斯安那大学,University of Louisiana at Lafayette,暨南大学,60015161.0,Postdoc1,3.0,2014,2016,,,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,,,,1983.0,,3.0,,,13,2017,0.0,0.0
+229,崔莹,0000-0003-1057-4369,达特茅斯学院,Dartmouth College,暨南大学,60010756.0,Postdoc2,4.0,2016,2018,,,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,,,,1983.0,,3.0,,,13,2017,0.0,0.0
+229,崔莹,0000-0003-1057-4369,,Montclair State University,暨南大学,,,,2018,,,Assistant Professor,https://yingcuipsu.weebly.com/people.html ; https://www.montclair.edu/profilepages/view_profile.php?username=cuiy ; https://www.researchgate.net/profile/Ying-Cui-17,Earth and Environmental Studies,,,,,5.0,,,13,2017,0.0,0.0
+264,贾大,0000-0002-2205-1998,埃默里大学,Emory University,南开大学,,PhD,,2000,2007,,PhD,http://sklb.scu.edu.cn/detail.html?type=postgraduateDetail&id=155,Biochemistry,,,,,2.0,,,4,2013,1.0,0.0
+264,贾大,0000-0002-2205-1998,,The University of Texas Southwestern Medical Center,南开大学,60032211.0,,,2008,2015,,Postdoc and Instructor,http://sklb.scu.edu.cn/detail.html?type=postgraduateDetail&id=155,Biochemistry,,,,,3.0,,,4,2013,1.0,0.0
+264,贾大,0000-0002-2205-1998,,Sichuan University,南开大学,,,,2015,,,Professor,http://sklb.scu.edu.cn/detail.html?type=postgraduateDetail&id=155,West China 2nd University Hospital,,,,,7.0,,,4,2013,1.0,0.0
+264,贾大,0000-0002-2205-1998,,Jilin University,南开大学,,,,1996,2000,,,http://sklb.scu.edu.cn/detail.html?type=postgraduateDetail&id=155,,,,,,,,,4,2013,1.0,0.0
+310,王兴龙,0000-0001-8657-0159,凯斯西储大学,Case Western Reserve University,山东大学,60000305.0,PhD1,1.0,2005,2009,,Pathology,https://www.linkedin.com/in/xinglong-wang-4aaa0770/ ; https://www.unmc.edu/pharmacology/faculty/primary-faculty/Wang/index.html,Pathology,,,1980.0,,2.0,,,14,2017,0.0,0.0
+310,王兴龙,0000-0001-8657-0159,,Case Western Reserve University,山东大学,,,,2013,2020,,Assistant Professor,https://www.linkedin.com/in/xinglong-wang-4aaa0770/ ; https://www.unmc.edu/pharmacology/faculty/primary-faculty/Wang/index.html,Pathology,,,,,5.0,,,14,2017,0.0,0.0
+310,王兴龙,0000-0001-8657-0159,,University of Nebraska,山东大学,,,,2020,,,Professor,https://www.linkedin.com/in/xinglong-wang-4aaa0770/ ; https://www.unmc.edu/pharmacology/faculty/primary-faculty/Wang/index.html,,,,,,7.0,,,14,2017,0.0,0.0
+310,王兴龙,0000-0001-8657-0159,,Case Western Reserve University,山东大学,,,,2011,2013,,Instructor,https://www.linkedin.com/in/xinglong-wang-4aaa0770/ ; https://www.unmc.edu/pharmacology/faculty/primary-faculty/Wang/index.html,Pathology,,,,,,,,14,2017,0.0,0.0
+314,蒋晓谦,0000-0001-9933-2205,,Carnegie Mellon University,上海交通大学,,PhD,,2006,2010-12,,PhD,https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm ; https://www.linkedin.com/in/xiaoqian-jiang-8a0a4a20,School of Computer Science,,,,,2.0,,,5,2013,0.0,0.0
+314,蒋晓谦,0000-0001-9933-2205,,University of California San Diego,上海交通大学,,,,2011,2012,,postdoc,https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm ; https://www.linkedin.com/in/xiaoqian-jiang-8a0a4a20,Division of Biomedical Informatics,,,,,3.0,,,5,2013,0.0,0.0
+314,蒋晓谦,0000-0001-9933-2205,,University of California San Diego,上海交通大学,,,,2013,2018,,Associate Professor,https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm ; https://www.linkedin.com/in/xiaoqian-jiang-8a0a4a20,Medicine,,,,,6.0,,,5,2013,0.0,0.0
+314,蒋晓谦,0000-0001-9933-2205,,University of Texas Health Science Center at Houston,上海交通大学,,,,2018,present,,Associate Professor,https://sbmi.uth.edu/faculty-and-staff/xiaoqian-jiang.htm ; https://www.linkedin.com/in/xiaoqian-jiang-8a0a4a20,School of Biomedical Informatics,,,,,6.0,,,5,2013,0.0,0.0
+319,周克权,0000-0002-0988-5971,,Chinese Center for Disease Control and Prevention,上海交通大学,,,,1998,2001,,MS,https://clasprofiles.wayne.edu/profile/am3555,Nutrition and Food Science,,,,,1.0,,,4,2013,0.0,0.0
+319,周克权,0000-0002-0988-5971,,Shangdong Medical University,上海交通大学,,,,1993,1998,,MD,https://clasprofiles.wayne.edu/profile/am3555,Public Health/Preventive Medicine,,,,,2.0,,,4,2013,0.0,0.0
+319,周克权,0000-0002-0988-5971,马里兰大学,University of Maryland at College Park,上海交通大学,60009408.0,PhD,,2003,2005,,PhD,https://clasprofiles.wayne.edu/profile/am3555,Nutrition and Food Science,,,,,2.0,,,4,2013,0.0,0.0
+319,周克权,0000-0002-0988-5971,,Virginia Polytechnic Institute and State University,上海交通大学,,,,2006,2009,,Assistant Professor,https://clasprofiles.wayne.edu/profile/am3555,Food Science and Technology,,,,,5.0,,,4,2013,0.0,0.0
+319,周克权,0000-0002-0988-5971,,Wayne State University,上海交通大学,60009408.0,,,2009,present,,Associate Professor,https://clasprofiles.wayne.edu/profile/am3555,Nutrition and Food Science,,,,,6.0,,,4,2013,0.0,0.0
+464,杨青,0000-0002-0683-5848,奥本大学,Auburn University,电子科技大学,60011754.0,PhD1,1.0,2005,2011,,,http://www.cse.unt.edu/~qingyang/,computer science and software engineering,,60011754,1980.0,,2.0,,,14,2017,0.0,0.0
+464,杨青,0000-0002-0683-5848,北德克萨斯大学,University of North Texas,电子科技大学,60024438.0,Postdoc1,3.0,,,,,http://www.cse.unt.edu/~qingyang/,,,,1980.0,,3.0,,,14,2017,0.0,0.0
+464,杨青,0000-0002-0683-5848,,Montana State University Bozeman,电子科技大学,,,,2011,,,Assistant Professor,http://www.cse.unt.edu/~qingyang/,Computer Science,,,,,5.0,,,14,2017,0.0,0.0
+925,袁星,0000-0001-6983-7368,,Hunan University,中国科学院大气物理研究所,,Bachelor,,2000,2004,,B.S.,,,,,,,0.0,,,11,2015,1.0,0.0
+925,袁星,0000-0001-6983-7368,,University of Illinois at Urbana-Champaign,中国科学院大气物理研究所,,,,2009,2011,,Climate Modeler,,Illinois State Water Survey,,,,,1.0,,,11,2015,1.0,0.0
+925,袁星,0000-0001-6983-7368,,Princeton University,中国科学院大气物理研究所,,,,2011,2014,,Associate Climate Specialist,,Department of Civil and Environmental Engineering,,,,,1.0,,,11,2015,1.0,0.0
+925,袁星,0000-0001-6983-7368,,Institute of Atmospheric Physics Chinese Academy of Sciences,中国科学院大气物理研究所,60019499.0,PhD1,,2005,2008-07,,Ph.D.,,,,60016211,,,2.0,,,11,2015,1.0,0.0
+925,袁星,0000-0001-6983-7368,,Institute of Atmospheric Physics Chinese Academy of Sciences,中国科学院大气物理研究所,,,,2014,2018,,Professor,,Key Laboratory of Regional Climate-Environment for Temperate East Asia (RCE-TEA),,,,,7.0,,,11,2015,1.0,0.0
+925,袁星,0000-0001-6983-7368,,Nanjing University of Information Science and Technology,中国科学院大气物理研究所,,,,2018,,,Professor,,School of Hydrology and Water Resources,,,,,7.0,,,11,2015,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Hohai University,中国科学院武汉岩土力学研究所,,,,2003,2007,,Bachelor of Engineering Science,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,Department of Civil Engineering,,,,,0.0,,,14,2017,1.0,0.0
+985,刘造保,,,Hohai University,中国科学院武汉岩土力学研究所,,,,2003,2007,,Bachelor of Engineering Science,https://www.x-mol.com/university/faculty/248861,Department of Civil Engineering,,,,,0.0,,ra,14,2017,1.0,0.0
+985,刘造保,,,Hohai University,中国科学院武汉岩土力学研究所,,,,2007,2010,,Master-Doctor,https://www.x-mol.com/university/faculty/248861,Geotechnical Research Instititute,,,,,1.0,,ra,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Hohai University,中国科学院武汉岩土力学研究所,,PhD,,2007,2010,,Master-Doctor,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,Geotechnical Research Instititute,,,,,2.0,,,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Université de Lille I,中国科学院武汉岩土力学研究所,,PhD,,2010,2013,,PhD,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,Ecole Polytechnique Lille,,,,,2.0,,,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Laboratoire de mécanique de Lille,中国科学院武汉岩土力学研究所,,PhD,,2013,2013,,Post-doctorant,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,,,,,,2.0,,,14,2017,1.0,0.0
+985,刘造保,,,Université de Lille I,中国科学院武汉岩土力学研究所,,,,2010,2013,,PhD,https://www.x-mol.com/university/faculty/248861,Ecole Polytechnique Lille,,,,,2.0,,ra,14,2017,1.0,0.0
+985,刘造保,,,Laboratoire de mécanique de Lille,中国科学院武汉岩土力学研究所,,,,2013,2013,,Post-doctorant,https://www.x-mol.com/university/faculty/248861,,,,,,3.0,,ra,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Northeastern University,中国科学院武汉岩土力学研究所,,,,2018,,,Professor,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,College of Resources and Civil Engineering,,,,,7.0,,,14,2017,1.0,0.0
+985,刘造保,,,Northeastern University,中国科学院武汉岩土力学研究所,,,,2018,,,Professor,https://www.x-mol.com/university/faculty/248861,College of Resources and Civil Engineering,,,,,7.0,,ra,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,Université Lille 1,中国科学院武汉岩土力学研究所,,,,2013,2014,,Ingénier de Recherche,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,,,,,,,,,14,2017,1.0,0.0
+985,刘造保,0000-0002-2047-5463,,University of Lille,中国科学院武汉岩土力学研究所,,,,2014,2018,,Research Fellow Associate,https://scholar.google.fr/citations?user=joHnEkkAAAAJ&hl=fr;http://faculty.neu.edu.cn/liuzaobao/english.html,,,,,,,,,14,2017,1.0,0.0
+985,刘造保,,,Université Lille 1,中国科学院武汉岩土力学研究所,,,,2013,2014,,Ingénier de Recherche,https://www.x-mol.com/university/faculty/248861,,,,,,,,ra,14,2017,1.0,0.0
+985,刘造保,,,University of Lille,中国科学院武汉岩土力学研究所,,,,2014,2018,,Research Fellow Associate,https://www.x-mol.com/university/faculty/248861,,,,,,,,ra,14,2017,1.0,0.0
+1116,韩柯,0000-0002-1609-7367,,Peking University,复旦大学,,Bachelor,,1998,2002,,B. S.,,Physics,,,,,0.0,,,11,2015,1.0,0.0
+1116,韩柯,0000-0002-1609-7367,,Yale University,复旦大学,,PhD,,2002,2009-12,,Ph. D.,,Physics,,,,,2.0,,,11,2015,1.0,0.0
+1116,韩柯,0000-0002-1609-7367,,Lawrence Berkeley National Laboratory,复旦大学,,,,2009,2014,,Postdoc,,Nuclear Science Division,,,,,3.0,,,11,2015,1.0,0.0
+1116,韩柯,0000-0002-1609-7367,,Yale University,复旦大学,,,,2014,2016,,Associate Research Scientist,,Physics,,,,,,,,11,2015,1.0,0.0
+1116,韩柯,0000-0002-1609-7367,,Shanghai Jiao Tong University,复旦大学,,,,2016,,,Tenure-track Associate Professor,,Physics and Astronomy,,,,,,,,11,2015,1.0,0.0
+1204,李东风,0000-0002-0246-2351,,Tsinghua University,哈尔滨工业大学,,Bachelor,,1995,1999,,BSC,,Department of Engineering Mechanics,,,,,0.0,,,11,2015,1.0,0.0
+1204,李东风,0000-0002-0246-2351,,Tsinghua University,哈尔滨工业大学,,PhD,,1999,2005,,PhD,,Department of Engineering Mechanics,,,,,2.0,,,11,2015,1.0,0.0
+1204,李东风,0000-0002-0246-2351,,University of Limerick,哈尔滨工业大学,,,,2009,2014,,Postdoc,,"Department of Mechanical, Aeronautical and Biomedical Engineering",,,,,3.0,,,11,2015,1.0,0.0
+1204,李东风,0000-0002-0246-2351,爱尔兰国立大学高威,National University of Ireland Galway,哈尔滨工业大学,60008539.0,,,2014,2015,,Postdoc,,School of Informatics and Engineering,,,,,3.0,,,11,2015,1.0,0.0
+1204,李东风,0000-0002-0246-2351,,"Harbin Institute of Technology, Shenzhen",哈尔滨工业大学,,,,2015,present,,Professor,,School of Science,,,,,7.0,,,11,2015,1.0,0.0
+1244,李伟斌,,华中科技大学,Huazhong University of Science and Technology,华中科技大学,60025761.0,Bachelor,-2.0,1998,2002,,,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,,,,1979.0,,0.0,,,3,2012,0.0,0.0
+1244,李伟斌,,华中科技大学,华中科技大学,,,,,1998,2002,,华中科技大学,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,,,,,,0.0,原子与分子物理,tb,3,2012,0.0,0.0
+1244,李伟斌,,武汉物理与数学研究所,Chinese Academy of Sciences,华中科技大学,60019499.0,PhD1,1.0,2002,2007,,,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,atomic and molecular physics,,60019499,1979.0,,2.0,,,3,2012,0.0,0.0
+1244,李伟斌,,马克斯-普朗克复杂物理系统研究所,Max-Planck-Institute for the Physics of Complex Systems,华中科技大学,,Postdoc1,2.0,2007,2010,,Postdoc,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,,,,1979.0,,3.0,,,3,2012,0.0,0.0
+1244,李伟斌,,诺丁汉大学,University of Nottingham,华中科技大学,60015138.0,Postdoc2,3.0,2010,2012-05,,Marie Currie Researcher,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,,,,1979.0,,3.0,,,3,2012,0.0,0.0
+1244,李伟斌,,诺丁汉大学,University of Nottingham,华中科技大学,60015138.0,Postdoc3,4.0,2012-05,,,Assistant Professor,http://phy.ecnu.edu.cn/2e/9a/c5680a143002/page.htm,,,,1979.0,,3.0,,,3,2012,0.0,0.0
+1316,何黎刚,,,Huazhong University of Science and Technology,湖南大学,,Bachelor,-1.0,1994,1998,,,,,,,1976.0,,0.0,,,3,2012,0.0,0.0
+1316,何黎刚,,,Huazhong University of Science and Technology,湖南大学,,Master,1.0,1998,2002,,,,,,,1976.0,,1.0,,,3,2012,0.0,0.0
+1316,何黎刚,,华威大学,University of Warwick,湖南大学,60022020.0,PhD1,2.0,2002,2005,,,,,,,1976.0,,2.0,,,3,2012,0.0,0.0
+1316,何黎刚,,,University of Cambridge,湖南大学,,Postdoc1,3.0,2005,2006,,Postdoc,,,,,1976.0,,3.0,,,3,2012,0.0,0.0
+1316,何黎刚,,华威大学,University of Warwick,湖南大学,60022020.0,Postdoc2,4.0,2006,2011,,Assistant Professor,,,,,1976.0,,3.0,,,3,2012,0.0,0.0
+1316,何黎刚,,华威大学,University of Warwick,湖南大学,60022020.0,Postdoc3,5.0,2012,,,Associate Professor,,Computer Science,,60022020,1976.0,,3.0,,,3,2012,0.0,0.0
+1347,董明东,0000-0002-2025-2171,,Aarhus Universitet,江苏大学,,PhD,,2003,2006,,PhD,,Inano,,,,,2.0,,,1,2011,0.0,0.0
+1347,董明东,0000-0002-2025-2171,,Harvard University,江苏大学,,,,2007,2009,,Postdoc,,,,,,,3.0,,,1,2011,0.0,0.0
+1347,董明东,0000-0002-2025-2171,,Aarhus Universitet,江苏大学,,,,2009,2013,,Assistant professor,,,,,,,5.0,,,1,2011,0.0,0.0
+1347,董明东,0000-0002-2025-2171,,Aarhus Universitet,江苏大学,,,,2013,present,,Associate Professor,,,,,,,6.0,,,1,2011,0.0,0.0
+1347,董明东,0000-0002-2025-2171,,Stanford University,江苏大学,,,,2017,2018,,,,Department of chemistry ,,,,,,,,1,2011,0.0,0.0
+1398,李延成,0000-0002-6720-8493,南京理工大学,Nanjing University of Science and Technology,南京工业大学,60010080.0,PhD1,1.0,2004,2007,2002,,http://cce.njtech.edu.cn/info/1095/3788.htm,,,60010080,1981.0,2018,2.0,,,14,2017,0.0,0.0
+1398,李延成,0000-0002-6720-8493,悉尼科技大学,University of Technology Sydney,南京工业大学,60023932.0,Postdoc1,3.0,2008,2015,2002,,http://cce.njtech.edu.cn/info/1095/3788.htm,,,,1981.0,2018,3.0,,,14,2017,0.0,0.0
+1398,李延成,0000-0002-6720-8493,,University of Technology Sydney,南京工业大学,,,,2015,2018,,Lecturer,http://cce.njtech.edu.cn/info/1095/3788.htm,School of Civil and Environmental Engineering,,,,,,,,14,2017,0.0,0.0
+1398,李延成,0000-0002-6720-8493,,University of Technology Sydney,南京工业大学,,,,2018,,,Senior Lecturer,http://cce.njtech.edu.cn/info/1095/3788.htm,School of Civil and Environmental Engineering,,,,,,,,14,2017,0.0,0.0
+1410,葛海波,,堪萨斯大学,University of Kansas,南京大学,60015457.0,PhD1,1.0,,2006,,,,Medicinal Chemistry ,,60015457,1972.0,,2.0,,,3,2012,0.0,0.0
+1410,葛海波,,,The Scripps Research Institute,南京大学,,Postdoc1,2.0,2006,2009,,,,,,,1972.0,,3.0,,,3,2012,0.0,0.0
+1410,葛海波,,,Indiana University-Purdue University Indianapolis,南京大学,60024609.0,Postdoc2,3.0,2009,2020,,Assistant Professor,,,,,1972.0,,3.0,,,3,2012,0.0,0.0
+1410,葛海波,,南京大学,Texas Tech University,南京大学,,Postdoc3,4.0,2020,,,Associate Professor/Principal Investigator ,,,,,1972.0,,3.0,,,3,2012,0.0,0.0
+1411,杜德国,,,Tsinghua University,南京大学,,Bachelor,-2.0,1994,1998,,,http://chemistry.fau.edu/directory/ddu.php,,,,1976.0,,0.0,,,3,2012,0.0,0.0
+1411,杜德国,,,Tsinghua University,南京大学,,Master,0.0,1998,2001,,,http://chemistry.fau.edu/directory/ddu.php,,,,1976.0,,1.0,,,3,2012,0.0,0.0
+1411,杜德国,,宾西法尼亚大学,University of Pennsylvania,南京大学,60006297.0,PhD1,1.0,2001,2006,,,http://chemistry.fau.edu/directory/ddu.php,Chemistry,,60006297,1976.0,,2.0,,,3,2012,0.0,0.0
+1411,杜德国,,,The Scripps Research Institute,南京大学,,Postdoc1,3.0,2007,2010,,Postdoc,http://chemistry.fau.edu/directory/ddu.php,,,,1976.0,,3.0,,,3,2012,0.0,0.0
+1411,杜德国,,佛罗里达大西洋大学,Florida Atlantic University,南京大学,60017606.0,Postdoc2,4.0,2010,,,Assistant Professor,http://chemistry.fau.edu/directory/ddu.php,,,,1976.0,,3.0,,,3,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,Tsinghua University,南京大学 ,,Bachelor,,1998,2002,,,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,,,0.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,Tsinghua University,南京大学 ,,Master,,2002,2005,,,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,,,1.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,华威大学,University of Warwick,南京大学 ,60022020.0,PhD1,1.0,2005,2008-06,,,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,60022020,1980.0,,2.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,University of Warwick,南京大学 ,60022020.0,Postdoc1,3.0,2008,2010,,,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,1980.0,,3.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,University of Warwick,南京大学 ,,postdoc,4.0,2010,2013,,NERC research fellow,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,,,3.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,University of Warwick,南京大学 ,,,,2012,2015,,Assistant Professor,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,,,5.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,,University of Warwick,南京大学 ,,,,2018,present,,Professor,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,School of Life Sciences,,,,,7.0,,,2,2012,0.0,0.0
+1416,陈银,0000-0002-0367-4276,南京大学,University of Warwick,南京大学 ,,,,2015,2018,,Associate Prof,https://warwick.ac.uk/fac/sci/lifesci/people/ychen/,,,,1980.0,,,,,2,2012,0.0,0.0
+1556,姚尧,0000-0002-0879-4269,,Tongji University,西北工业大学,,,,1995,1999,,Bachelor,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,0.0,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,,Nanyang Technological University,西北工业大学,,,,2000,2002,,master,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,1.0,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,西北大学,Northwestern University,西北工业大学,60007363.0,PhD,,2005,2008,,PhD,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,2.0,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,西北工业大学,Northwestern Polytechnical University,西北工业大学,60003977.0,,,2013,,,Professor (full),https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,7.0,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,,Xi'an University of Architecture and Technology,西北工业大学,,,,2019,,,Professor; Vice President,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,7.0,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,,Nanyang Technological University,西北工业大学,,,,2002,2004,,Project officer,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,埃克森美孚石油研发公司,Exxon Mobil,西北工业大学,60021814.0,,,2009,2013,,,https://teacher.nwpu.edu.cn/yaoyao.html,,,,,,,,,1,2011,1.0,0.0
+1556,姚尧,0000-0002-0879-4269,,Max-Planck-Institut für Eisenforschung GmbH,西北工业大学,,,,2018,2019,,Humboldt Visiting Professor,https://teacher.nwpu.edu.cn/yaoyao.html,Structure and Nano-/Micromechanics of Materials,,,,,,,,1,2011,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,Shanghai Jiao Tong University,上海交通大学,,,,2001,2005,,Undergraduate,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,Physics,,,,,0.0,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,Shanghai Jiao Tong University,上海交通大学,,,,2005,2007,,Master,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,Physics,,,,,1.0,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,东京大学,The University of Tokyo,上海交通大学,60025272.0,PhD1,1.0,2007,2010,,,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,,产业机械工程系,,1983.0,2016,2.0,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,Lawrence Berkeley National Laboratory,上海交通大学,,,,2014,2016,,Postdoc,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,JCAP,,,,,3.0,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,University of Electronic Science and Technology of China,上海交通大学,,,,2016,present,,Professor,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,IFFS,,,,,7.0,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,University of Tokyo,上海交通大学,,,,2010,2012,,JSPS Postdoctoral Fellow,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,Chemical System Engineering,,,,,,,,12,2016,1.0,0.0
+1797,李严波,0000-0002-3017-762X,,University of Tokyo,上海交通大学,,,,2012,2014,,Project Researcher,https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/12089?yxsh=21 ; https://www.x-mol.com/groups/li_yanbo/people/5998,Chemical System Engineering,,,,,,,,12,2016,1.0,0.0
+2031,朱旭,0000-0003-1287-1623,,Huazhong University of Science and Technology,,,,,1995,1999,,BEng,,Department of Electronics and Information Engineering,,,,,0.0,,,11,2015,0.0,0.0
+2031,朱旭,0000-0003-1287-1623,,Hong Kong University of Science and Technology,,,PhD,,1999,2003,,PhD,,Department of Electrical and Electronic Engineering,,,,,2.0,,,11,2015,0.0,0.0
+2031,朱旭,0000-0003-1287-1623,,The University of Liverpool,,,,,2003,,,"Lecturer, Senior Lecturer, Reader",,Department of Electrical Engineering and Electronics,,,,,,,,11,2015,0.0,0.0
+2163,田英辉,0000-0002-0874-2346,天津大学,Tianjin University,天津大学,60019533.0,PhD1,1.0,2001,2007-02,,,,,,60019533,1974.0,,2.0,,,11,2015,0.0,0.0
+2163,田英辉,0000-0002-0874-2346,西澳大学,The University of Western Australia,天津大学,60031806.0,Postdoc1,3.0,2007,2019,,Associate Prof,,,,,1974.0,,3.0,,,11,2015,0.0,0.0
+2163,田英辉,0000-0002-0874-2346,,University of Melbourne,天津大学,,,,2019,present,,Associate Prof,,,,,,,,,,11,2015,0.0,0.0
+2208,丁春明,0000-0002-2063-5594,,Boston University,同济大学,,PhD,,2000,2003,,Ph.D.,http://jsxy.wmu.edu.cn/info/1080/4030.htm,Bioinformatics,,,,,2.0,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,,The Chinese University of Hong Kong,同济大学,,,,2005,2009,,Assistant Professor,http://jsxy.wmu.edu.cn/info/1080/4030.htm,Faculty of Medicine,,,,,5.0,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,,Wenzhou Medical University,同济大学,,,,2015,,,Professor and Dean,http://jsxy.wmu.edu.cn/info/1080/4030.htm,School of Laboratory Medicine and Life Sciences,,,,,7.0,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,,Fudan University,同济大学,,,,1994,1997,,,http://jsxy.wmu.edu.cn/info/1080/4030.htm,,,,,,,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,,Brandeis University,同济大学,,,,1997,2000,,,http://jsxy.wmu.edu.cn/info/1080/4030.htm,,,,,,,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,波士顿大学,Boston University,同济大学,60019674.0,,,2003,2005,,Research Assistant Professor,http://jsxy.wmu.edu.cn/info/1080/4030.htm,Bioinformatics,,,,,,,,11,2015,1.0,0.0
+2208,丁春明,0000-0002-2063-5594,新加坡科技研究局,"Agency for Science, Technology and Research",同济大学,60025710.0,,,2009,2015,,Principal Investigator,http://jsxy.wmu.edu.cn/info/1080/4030.htm,Growth Development and Diseases,,,,,,,,11,2015,1.0,0.0
+2240,李红旗,0000-0002-5198-1617,佛罗里达大学,University of Florida,清华大学,60013959.0,PhD1,1.0,2000,2004-05,,,https://www.zoominfo.com/p/Hongqi-Li/-2043762874,,,60013959,1972.0,,2.0,,,1,2011,0.0,0.0
+2240,李红旗,0000-0002-5198-1617,洛斯阿拉莫斯国家实验室,Los Alamos National Laboratory,清华大学,60006164.0,Postdoc1,3.0,2007,2020,,,https://www.zoominfo.com/p/Hongqi-Li/-2043762874,,,,1972.0,,3.0,,,1,2011,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,,Tsinghua University,,,,,1998,2002,,Bachalor,https://www.tsinghua.edu.cn/info/1177/24144.htm,Department of Physics,,,,,0.0,,,5,2013,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,,Tsinghua University,,,,,2002,2005,,Master,https://www.tsinghua.edu.cn/info/1177/24144.htm,,,,,,1.0,,,5,2013,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,,University of Illinois at Urbana-Champaign,,,,,2015,,,Assistant Professor,https://www.tsinghua.edu.cn/info/1177/24144.htm,Astronomy,,,,,5.0,,,5,2013,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,普林斯顿大学,Princeton University,,,,,2005,2009,,,https://www.tsinghua.edu.cn/info/1177/24144.htm, Department of Astrophysical Sciences,,,,,,,,5,2013,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,,Harvard-Smithsonian Center for Astrophysics,,,,,2009,2012,,Clay Fellow,https://www.tsinghua.edu.cn/info/1177/24144.htm,,,,,,,,,5,2013,0.0,0.0
+2278,沈悦,0000-0003-1659-7035,,Observatories of the Carnegie Institution of Washington,,60002312.0,,,2012,2015,,,https://www.tsinghua.edu.cn/info/1177/24144.htm,,,,,,,,,5,2013,0.0,0.0
+2331,何吉波,0000-0002-1465-0077,,Beihang University,清华大学,,,,1998,2002,,Bachelor,,Astronautics,,,,,0.0,,,11,2015,1.0,0.0
+2331,何吉波,0000-0002-1465-0077,,Tsinghua University,清华大学,,PhD,,2002,2008,,PhD,,Physics,,,,,2.0,,,11,2015,1.0,0.0
+2331,何吉波,0000-0002-1465-0077,,Laboratoire de l'Accélérateur Linéaire,清华大学,,,,2008,2012,,Post-doc/CDD,,LHCb,,,,,3.0,,,11,2015,1.0,0.0
+2331,何吉波,0000-0002-1465-0077,,University of the Chinese Academy of Sciences,清华大学,,,,2015,,,Professor,,Physics,,,,,7.0,,,11,2015,1.0,0.0
+2331,何吉波,0000-0002-1465-0077,欧洲核子研究中心,CERN,清华大学,60019778.0,,,2013,2015,,CERN Fellow,,PH/LBD,,,,,,,,11,2015,1.0,0.0
+2407,王红刚,0000-0001-9475-2630,,Southwest Jiaotong University,电子科技大学,,Bachelor,,1992,1996,,,https://hwang.sites.umassd.edu/,,,,,,0.0,,,5,2013,0.0,0.0
+2407,王红刚,0000-0001-9475-2630,,Southwest Jiaotong University,电子科技大学,,Master,,1996,2001,,,https://hwang.sites.umassd.edu/,,,,,,1.0,,,5,2013,0.0,0.0
+2407,王红刚,0000-0001-9475-2630,内布拉斯加大学林肯分校,University of Nebraska-Lincoln,电子科技大学,60026306.0,PhD1,1.0,2004,2009-07,,,https://hwang.sites.umassd.edu/,,,60026306,1975.0,,2.0,,,5,2013,0.0,0.0
+2407,王红刚,0000-0001-9475-2630,,University of Massachusetts Dartmouth,电子科技大学,,,,2009,2020,,Associate Professor,https://hwang.sites.umassd.edu/,Electrical and Computer Engineering,,,,,6.0,,,5,2013,0.0,0.0
+2407,王红刚,0000-0001-9475-2630,马萨诸塞大学,University of Massachusetts,电子科技大学,60013894.0,,,2020,,,Professor,https://hwang.sites.umassd.edu/,,,,1975.0,,7.0,,,5,2013,0.0,0.0
+2407,王红刚,0000-0001-9475-2630,,Bell Lab,电子科技大学,,,,2001,2004,,,https://hwang.sites.umassd.edu/,,,,,,,,,5,2013,0.0,0.0
+2408,邹清泽,,,Tsinghua University,,,Bachelor,,1990,1994,,,https://zoulab.engr.rutgers.edu/members,,,,,,0.0,,,4,2013,0.0,0.0
+2408,邹清泽,,,University of Electronic Science and Technology of China,电子科技大学,,,,,1994,,Undergraduate Student,https://zoulab.engr.rutgers.edu/members,Automatic Control,,,,,0.0,,ra,4,2013,0.0,0.0
+2408,邹清泽,,,University of Washington,,,Master,,1994,1997,,,https://zoulab.engr.rutgers.edu/members,,,,,,1.0,,,4,2013,0.0,0.0
+2408,邹清泽,,,Tsinghua University,电子科技大学,,,,,1997,,Master of Science,,Mechanical Engineering,,,,,1.0,,ra,4,2013,0.0,0.0
+2408,邹清泽,,华盛顿大学,University of Washington,电子科技大学,60015481.0,PhD1,1.0,1997,2003-07,,,https://zoulab.engr.rutgers.edu/members,,,60015481,1973.0,,2.0,,,4,2013,0.0,0.0
+2408,邹清泽,,罗格斯大学,Rutgers The State University of New Jersey,电子科技大学,60030623.0,Postdoc1,3.0,,,,,https://zoulab.engr.rutgers.edu/members,,,,1973.0,,3.0,,,4,2013,0.0,0.0
+2408,邹清泽,,,University of Washington,,,,,,2003,,,,Mechanical Engineering,,,,,,,ra,4,2013,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,Hong Kong University of Science and Technology,,,,,2002,2004,,Master,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,Chemistry,,,,,1.0,,,3,2012,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,Brown University,,,PhD,,2005,2009,,PhD,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,Chemistry,,,,,2.0,,,3,2012,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,Nanjing University,,,,,1998,2002,,Chemistry,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,DII,,,,,,,,3,2012,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,Stanford University,,,,,2004,2005,,Visiting Scholar,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,MIPS,,,,,,,,3,2012,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,Brigham and Women's Hospital,,,,,2009,2012,,Research Associate,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,Medicine,,,,,,,,3,2012,0.0,0.0
+2666,徐臣杰,0000-0002-8278-3912,,City University of Hong Kong,,,,,2012,,,,https://scholars.cityu.edu.hk/en/persons/chenjie-xu(0b6afe7d-a8e4-4903-910e-366b8685f2ab).html,,,,,,,,,3,2012,0.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Tsinghua University,中南大学 ,,Bachelor,,1992,1997,,BS,,Biomedical Engineering,,,,,0.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Tsinghua University,中南大学 ,,,,1997,2000,,MS,,Biomedical Engineering,,,,,1.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Boston University,中南大学 ,60019674.0,PhD,,2000,2005,,PhD,,Electrical and Computer Engineering Department,,,,,2.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,KLA Tencor,中南大学 ,,,,2008,2009,,Senior System Design Engineer,,,,,,,2.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Oregon Health and Science University,中南大学 ,,,,2004,2006,,Postdoctoral Fellow,,,,,,,3.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,South University of Science and Technology of China,中南大学 ,,,,2012,,,Associate Professor,,,,,,,6.0,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Oregon Health and Science University,中南大学 ,,,,2006,2008,,Research Associate/ Engineer,,,,,,,,,,2,2012,1.0,0.0
+2868,陈放怡,0000-0001-9553-9102,,Oregon Health and Science University,中南大学 ,,,,2009,2012,,Research Associate/ Engineer,,,,,,,,,,2,2012,1.0,0.0
+3023,吴一聪,0000-0002-8819-7527,,Zhejiang University,中国科学院深圳先进技术研究院,,Bachelor,,1995,1999,,,https://www.linkedin.com/in/yicong-wu-19051219/,,,,,,0.0,,,13,2017,0.0,0.0
+3023,吴一聪,0000-0002-8819-7527,,Zhejiang University,中国科学院深圳先进技术研究院,,Master,,1999,2002,,,https://www.linkedin.com/in/yicong-wu-19051219/,,,,,,1.0,,,13,2017,0.0,0.0
+3023,吴一聪,0000-0002-8819-7527,香港科技大学,Hong Kong University of Science and Technology,中国科学院深圳先进技术研究院,,PhD,,2002,2007,,PhD,https://www.linkedin.com/in/yicong-wu-19051219/,Electronic and Computer Engineering,,,,,2.0,,,13,2017,0.0,0.0
+3023,吴一聪,0000-0002-8819-7527,,University of Washington,中国科学院深圳先进技术研究院,,postdoc,,2007,2010,,,https://www.linkedin.com/in/yicong-wu-19051219/,,,,,,3.0,,,13,2017,0.0,0.0
+3023,吴一聪,0000-0002-8819-7527,,Johns Hopkins University,中国科学院深圳先进技术研究院,,postdoc,,2007,2010,,,https://www.linkedin.com/in/yicong-wu-19051219/,,,,,,3.0,,,13,2017,0.0,0.0
+3023,吴一聪,0000-0002-8819-7527,,National Institutes of Health,中国科学院深圳先进技术研究院,,,,2011,present,,Staff Scientist,https://www.linkedin.com/in/yicong-wu-19051219/,National Institute of Biomedical Imaging and Bioengineering,,,,,,,,13,2017,0.0,0.0
+3050,王金虎,,中国科学院,Chinese Academy of Sciences,华东理工大学,60019499.0,PhD1,1.0,,,,,https://sites.duke.edu/posslab/lab-members/wang-jinhu-crop-u3808/,,,,1978.0,,2.0,,,14,2017,0.0,0.0
+3050,王金虎,,,Duke University,华东理工大学,,Postdoc1,3.0,,,,Postdoc,https://sites.duke.edu/posslab/lab-members/wang-jinhu-crop-u3808/,,,,1978.0,,3.0,,,14,2017,0.0,0.0
+3050,王金虎,,埃默里大学,Emory University,华东理工大学,60000928.0,Postdoc2,4.0,,,,Assistant Professor,https://sites.duke.edu/posslab/lab-members/wang-jinhu-crop-u3808/,,,,1978.0,,3.0,,,14,2017,0.0,0.0
+3144,彭扬,0000-0002-6780-2468,,Nanjing University,南京大学,,Bachelor,,1997,2001,,BS,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Chemistry,,,,,0.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,Nanjing University,南京大学,,,,2001,2004,,MS,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Chemistry,,,,,1.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,University of California Davis,南京大学,,PhD,,2004,2010,,Ph.D,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Chemistry,,,,,2.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,加州大学戴维斯分校,University of California Davis,南京大学,60014439.0,PhD1,1.0,2005,2010-04,2001,,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,,,60014439,1980.0,2016,2.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,宾夕法尼亚大学,University of Pennsylvania,南京大学,60006297.0,Postdoc1,3.0,2010,2012,2001,,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,,Department of Material Science and Engineering,,1980.0,2016,3.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,Soochow University,南京大学,,,,2016,,,Professor,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Soochow Institute for Energy and Materials Innovations,,,,,7.0,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,University of Maryland,南京大学,,,,2010,2012,,Reserach Associate,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Chemistry & Biochemistry,,,,,,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,National Institute of Standards and Technology,南京大学,,,,2012,2013,,Guest Researcher,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Neutron Research Center,,,,,,,,5,2013,1.0,0.0
+3144,彭扬,0000-0002-6780-2468,,Halliburton Energy Services Inc,南京大学,,,,2013,2015,,Senior Research Scientist,https://www.x-mol.com/university/faculty/49851; http://web.suda.edu.cn/ypeng/,Production Enhancement,,,,,,,,5,2013,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Shanghai Jiao Tong University,南京大学,,Bachelor,,1995,1999,,BS,,Chemistry Engineering,,,,,0.0,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Shanghai Jiao Tong University,南京大学,,,,1999,2002,,MS,,Chemistry Engieering,,,,,1.0,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,加州大学戴维斯分校,University of California Davis,南京大学,60014439.0,PhD,,2003,2009,,Ph.D,,Chemistry,,,,,2.0,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Soochow University,南京大学,,,,2016,,,Professor,,Soochow Institute for Energy and Materials Innovations,,,,,7.0,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Shanghai Jiao Tong University,南京大学,,,,2002,2003,,Instructor,,Chemistry Engineering,,,,,,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,National Institute of Standards and Technology,南京大学,,,,2009,2012,,Research Associate ,,Center for Nanoscale and Technology,,,,,,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Houghton International Inc,南京大学,,,,2012,2013,,Senior Research Scientist,,Research and Development,,,,,,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,哈里伯顿公司,Halliburton Company,南京大学,60026187.0,,,2013,2015,,Senior Research Chemist,,Drilling Fliud R&D ,,,,,,,,11,2015,1.0,0.0
+3151,邓昭,0000-0002-0008-5759,,Afton Chemical Corp,南京大学,,,,2015,2015,,Priciple Research Scientist,,Research and Development,,,,,,,,11,2015,1.0,0.0
+3154,倪冉,0000-0001-9478-0674,,Beijing University of Chemical Technology,南京大学,,Bachelor,,2001,2005,,,,,,,,,0.0,,,11,2015,0.0,0.0
+3154,倪冉,0000-0001-9478-0674,,Beijing University of Chemical Technology,南京大学,,Master,,2005,2008,,,,,,,,,1.0,,,11,2015,0.0,0.0
+3154,倪冉,0000-0001-9478-0674,乌特列支大学,Utrecht University,南京大学,60007989.0,PhD,,2008,2012,,PhD,,Physics,,,,,2.0,,,11,2015,0.0,0.0
+3154,倪冉,0000-0001-9478-0674,阿姆斯特丹大学,University of Amsterdam,南京大学,60002483.0,,,2012,2016,,Postdoc,,Chemistry,,,,,3.0,,,11,2015,0.0,0.0
+3154,倪冉,0000-0001-9478-0674,,Nanyang Technological University,南京大学,,,,2016,,,Assistant Professor,,School of Chemical and Biomedical Engineering,,,,,5.0,,,11,2015,0.0,0.0
+3210,王淼,0000-0002-0532-6312,浙江大学,Zhejiang University,北京大学 ,60003970.0,Bachelor,,1992,1996,,,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,,,,,,0.0,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,Chinese Academy of Medical Sciences and Peking Union Medical College,北京大学 ,60122781.0,Master,,1996,1999,,,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,,,,,,1.0,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,中国医学科学院北京协和医学院,Chinese Academy of Medical Sciences and Peking Union Medical College,北京大学 ,60122781.0,,,2013,,,Professor of Pharmacology,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,State Key Laboratory of Cardiovascular Disease,,,,,1.0,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,中国医学科学院北京协和医学院,Chinese Academy of Medical Sciences and Peking Union Medical College,北京大学 ,60122781.0,PhD,,1999,2002,,PhD,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,Institute of Basic Medical Sciences,,,,,2.0,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,University of Pennsylvania,北京大学 ,,,,2003,2006,,Postdoc,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,Pharmacology,,,,,3.0,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,University of Pennsylvania,北京大学 ,,,,2004,2005,,Clinical Research Certificate,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,Center for Clinical Epidemiology and Biostatistics,,,,,,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,University of Pennsylvania,北京大学 ,,,,2006,2009,,Research Associate,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,Pharmacology,,,,,,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,University of Pennsylvania,北京大学 ,,,,2009,2010,,Research Assistant Professor,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680,Pharmacology,,,,,,,,2,2012,1.0,0.0
+3210,王淼,0000-0002-0532-6312,,Pfizer Global Research and Development,北京大学 ,60006989.0,,,2010,2013,,Principal Scientist,http://sklcvd.fuwaihospital.org/WangM-Lab; https://www.x-mol.com/university/faculty/224680, Cardiovascular and Metabolic Disease Research Unit,,,,,,,,2,2012,1.0,0.0
+3303,Zhiqi  Sun,0000-0002-2792-2158,,Tsinghua University,四川大学,,,,2003,2007,,Bachelor,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,Department of chemistry,,,,,0.0,,,14,2017,1.0,0.0
+3303,Zhiqi  Sun,0000-0002-2792-2158,,Tsinghua University,四川大学,,,,2007,2010,,Master,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,School of life sciences,,,,,1.0,,,14,2017,1.0,0.0
+3303,孙智琦,0000-0002-2792-2158,马克斯普朗克生物化学研究所,Max Planck Institute of Biochemistry,四川大学,60006070.0,PhD1,1.0,2010,2015,2007,PhD,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,,,,1985.0,,2.0,,,14,2017,1.0,0.0
+3303,孙智琦,0000-0002-2792-2158,,Max Planck Institute of Biochemistry,四川大学,60006070.0,Postdoc1,3.0,2015,,2007,Research Scientist,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,,,,1985.0,,3.0,,,14,2017,1.0,0.0
+3303,Zhiqi  Sun,0000-0002-2792-2158,,Max-Planck-Institut für Biochemie,四川大学,,,,2010,2015,,Dr. rer. nat.,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,Molecular medicine,,,,,,,,14,2017,1.0,0.0
+3303,Zhiqi  Sun,0000-0002-2792-2158,,Max-Planck-Institut für Biochemie,四川大学,,,,2015,,,Research scientist,https://scholar.google.com/citations?user=fIPo8dwAAAAJ&hl=zh-CN；https://orcid.org/0000-0002-2792-2158,Molecular medicine,,,,,,,,14,2017,1.0,0.0
+3391,邓巧琳,,复旦大学,复旦大学,,,,,2001,,,复旦大学,https://staff.ki.se/people/qiaolin-deng,,,,,,0.0,细胞与分子生物学,tb,14,2017,0.0,0.0
+3391,邓巧琳,,卡罗林斯卡医学院,Karolinska Institutet,同济大学,60012311.0,PhD1,1.0,,2010,2001,PhD,https://staff.ki.se/people/qiaolin-deng,Medical Science Dept. Cell and Molecular Biology,,,1978.0,,2.0,,,14,2017,0.0,0.0
+3391,邓巧琳,,,Lecturer of Developmental Biology for Regenerative Medicine (DBRM) research school,同济大学,47.0,Postdoc1,3.0,,,2001,Lecturer/Principal researcher,https://staff.ki.se/people/qiaolin-deng,,,,1978.0,,3.0,,,14,2017,0.0,0.0
+3472,苏永超,0000-0001-5063-3218,爱荷华州立大学,Iowa State University,中国科学技术大学,60004354.0,PhD1,1.0,2006,2011,,Ph.D.,https://www.researchgate.net/profile/Yongchao-Su ; https://www.linkedin.com/in/yongchao,Chemistry,,60004354,1980.0,,2.0,,,12,2016,0.0,0.0
+3472,苏永超,0000-0001-5063-3218,,Massachusetts Institute of Technology,中国科学技术大学,,Postdoc1,3.0,2011,2014,,Postdoc,https://www.researchgate.net/profile/Yongchao-Su ; https://www.linkedin.com/in/yongchao,,,,1980.0,,3.0,,,12,2016,0.0,0.0
+3472,苏永超,0000-0001-5063-3218,默克公司,Merck,中国科学技术大学,60007995.0,,4.0,2014,,,Principal Scientist,https://www.researchgate.net/profile/Yongchao-Su ; https://www.linkedin.com/in/yongchao,Pharmaceutical Sciences,,,1980.0,,,,,12,2016,0.0,0.0
